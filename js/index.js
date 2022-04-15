@@ -18,3 +18,4 @@ document.querySelectorAll('.title_wrap').forEach((el) => {
 
 
 
+
