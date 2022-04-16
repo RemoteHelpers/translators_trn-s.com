@@ -10,9 +10,9 @@ document.querySelectorAll('.title_wrap').forEach((el) => {
       document.querySelectorAll('.content_wrap').forEach((el) => el.style.maxHeight = null);
       content.style.maxHeight = content.scrollHeight + 'px'
     }
-    document.querySelectorAll('.fa-caret-right').forEach((el) => {
-      el.classList.toggle('rotate')
-    })
+    // document.querySelectorAll('.fa-caret-right').forEach((el) => {
+    //   el.classList.toggle('rotate')
+    // })
   })
 })
 
