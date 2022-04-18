@@ -85,7 +85,10 @@ p {
   font-weight: 400;
 }
 span {
-  font-size: clamp(16px, 3vw, 24px);
+  font-size: clamp(16px, 3vw, 18px);
+}
+a {
+  font-size: clamp(16px,);
 }
 
 
@@ -321,7 +324,7 @@ footer {
 .footer_contacts {
   color: #fff;
 }
-.footer_contacts span {
+.footer_contacts {
   color: #fff;
 }
 .mail a {
