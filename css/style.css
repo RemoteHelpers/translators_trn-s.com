@@ -100,6 +100,9 @@ span {
 .mobile_flag {
   display: none;
 }
+.burger_content {
+  display: none;
+}
 
 header {
   background: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
