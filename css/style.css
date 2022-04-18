@@ -76,12 +76,12 @@ select {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: clamp(30px, 3vw, 64px);
+  font-size: clamp(20px, 3vw, 64px);
   font-weight: 800;
   text-align: center;
 }
 p {
-  font-size: clamp(16px, 3vw, 20px);
+  font-size: clamp(16px, 3vw, 18px);
   font-weight: 400;
 }
 span {
