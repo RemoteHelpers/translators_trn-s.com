@@ -117,7 +117,7 @@
       <div class="slider">
         <div class="mySwiper swiper">
           <div class="swiper-wrapper">
-    
+
             <div class="swiper-slide">
               <div class="slide_image">
                 <img src="/wp-content/uploads/2022/04/slide1.png" alt="">
@@ -154,7 +154,7 @@
               </div>
               <p>Retail</p>
             </div>
-    
+
           </div>
         </div>
       </div>
@@ -175,7 +175,7 @@
     <div class="slider">
       <div class="mySwiper swiper">
         <div class="swiper-wrapper">
-  
+
           <div class="swiper-slide">
             <div class="slide_image">
               <img src="/wp-content/uploads/2022/04/slide1.png" alt="">
@@ -212,7 +212,7 @@
             </div>
             <p>Retail</p>
           </div>
-  
+
         </div>
       </div>
     </div>
@@ -284,7 +284,9 @@
         <div class="benefits_cards">
           <div class="benefits_card">
             <span class="denefit_num">1</span>
-            <p><?php the_field( 'years' ) ?></p>
+            <p>
+              <?php the_field( 'years' ) ?>
+            </p>
           </div>
           <div class="benefits_card">
             <span class="denefit_num">2</span>
@@ -304,7 +306,9 @@
           </div>
           <div class="benefits_card">
             <span class="denefit_num">6</span>
-            <p><?php the_field( 'companies' ) ?></p>
+            <p>
+              <?php the_field( 'companies' ) ?>
+            </p>
           </div>
         </div>
       </div>
@@ -313,7 +317,7 @@
         <div class="benefits_img">
           <!-- <img src="/wp-content/uploads/2022/04/benefits_bg.png" alt="night"> -->
           <?php $pic = get_field('benefit_image'); ?>
-          <img src="<?php echo $pic['url'] ?>" alt="night">
+          <img src="<?php echo $pic['url'] ?>" alt="custom_bg">
         </div>
         <div class="benefits_img_info">
           <h3>We are providing an excellent customer experience for reasonable prices.</h3>
@@ -326,7 +330,7 @@
         <div class="benefits_img">
           <!-- <img src="/wp-content/uploads/2022/04/benefits_bg.png" alt="night"> -->
           <?php $pic = get_field('benefit_image'); ?>
-          <img src="<?php echo $pic['url'] ?>" alt="night">
+          <img src="<?php echo $pic['url'] ?>" alt="custom_bg">
         </div>
         <div class="benefits_img_info">
           <h3>We are providing an excellent customer experience for reasonable prices.</h3>
@@ -345,62 +349,66 @@
     <div class="form_title">
       <h2>Don’t hesitate to delegate tasks <br> and let your <span>company flourish</span></h2>
     </div>
-    <div class="form_check_block">
-      <h3>Choose Interest area:</h3>
-      <div>
-        <label>
-          <input type="checkbox" class="default_checkbox">
-          <span class="custom_checkbox">Translation services</span>
-        </label>
-        <label>
-          <input type="checkbox" class="default_checkbox">
-          <span class="custom_checkbox">SEO and PPC services</span>
-        </label>
-        <label>
-          <input type="checkbox" class="default_checkbox">
-          <span class="custom_checkbox">Get more information</span>
-        </label>
-      </div>
-    </div>
-    <form action="#" class="form_fields" id="form">
-      <p>Leave your contact details, and we'll be in touch with you soon!</p>
-      <input name="name" type="text" placeholder="First name">
-      <input name="email" type="email" placeholder="Email">
-      <div class="industry_dropdown">
-        <div class="dropdown">
-          <button class="dropdown_button">Industry</button>
-          <ul class="industry_dropdown_list">
-            <li class="industry_dropdown_item" data-value="Elearning">Elearning</li>
-            <li class="industry_dropdown_item" data-value="Marketing">Marketing</li>
-            <li class="industry_dropdown_item" data-value="Media">Online Media</li>
-            <li class="industry_dropdown_item" data-value="Pharmaceutical">Pharmaceutical</li>
-            <li class="industry_dropdown_item" data-value="Information">Information Technology & Services</li>
-            <li class="industry_dropdown_item" data-value="Consumer">Consumer Services</li>
-            <li class="industry_dropdown_item" data-value="Medical">Medical services</li>
-            <li class="industry_dropdown_item" data-value="Retail">Retail</li>
-          </ul>
-          <input type="text" name="select-category" value="" class="dropdown_input_hidden">
+    <form action="sendmail.php" method="post" id="form">
+      <div class="form_check_block">
+        <h3>Choose Interest area:</h3>
+        <div>
+          <label>
+            <input type="checkbox" class="default_checkbox form_input _req">
+            <span class="custom_checkbox">Translation services</span>
+          </label>
+          <label>
+            <input type="checkbox" class="default_checkbox form_input _req">
+            <span class="custom_checkbox">SEO and PPC services</span>
+          </label>
+          <label>
+            <input type="checkbox" class="default_checkbox form_input _req">
+            <span class="custom_checkbox">Get more information</span>
+          </label>
         </div>
       </div>
-      <div class="country_dropdown">
-        <div class="dropdown">
-          <button class="dropdown_button">Country</button>
-          <ul class="industry_dropdown_list">
-            <li class="industry_dropdown_item" data-value="Elearning">Ukraine</li>
-            <li class="industry_dropdown_item" data-value="Marketing">Germany</li>
-            <li class="industry_dropdown_item" data-value="Media">USA</li>
-            <li class="industry_dropdown_item" data-value="Pharmaceutical">France</li>
-            <li class="industry_dropdown_item" data-value="Information">Italy</li>
-            <li class="industry_dropdown_item" data-value="Consumer">Poland</li>
-          </ul>
-          <input type="text" name="select-category" value="" class="dropdown_input_hidden">
+      <div class="form_fields">
+        <p>Leave your contact details, and we'll be in touch with you soon!</p>
+        <input class="form_input _req" name="name" require type="text" placeholder="First name">
+        <input class="form_input _req _email" name="email" require type="text" placeholder="Email">
+        <div class="industry_dropdown">
+          <div class="dropdown">
+            <button class="dropdown_button">Industry</button>
+            <ul class="industry_dropdown_list">
+              <li class="industry_dropdown_item" data-value="Elearning">Elearning</li>
+              <li class="industry_dropdown_item" data-value="Marketing">Marketing</li>
+              <li class="industry_dropdown_item" data-value="Media">Online Media</li>
+              <li class="industry_dropdown_item" data-value="Pharmaceutical">Pharmaceutical</li>
+              <li class="industry_dropdown_item" data-value="Information">Information Technology & Services</li>
+              <li class="industry_dropdown_item" data-value="Consumer">Consumer Services</li>
+              <li class="industry_dropdown_item" data-value="Medical">Medical services</li>
+              <li class="industry_dropdown_item" data-value="Retail">Retail</li>
+            </ul>
+            <input type="text" name="select-category" value="" class="dropdown_input_hidden">
+          </div>
         </div>
+        <div class="country_dropdown">
+          <div class="dropdown">
+            <button class="dropdown_button">Country</button>
+            <ul class="industry_dropdown_list">
+              <li class="industry_dropdown_item" data-value="Elearning">Ukraine</li>
+              <li class="industry_dropdown_item" data-value="Marketing">Germany</li>
+              <li class="industry_dropdown_item" data-value="Media">USA</li>
+              <li class="industry_dropdown_item" data-value="Pharmaceutical">France</li>
+              <li class="industry_dropdown_item" data-value="Information">Italy</li>
+              <li class="industry_dropdown_item" data-value="Consumer">Poland</li>
+            </ul>
+            <input type="text" name="select-category" value="" class="dropdown_input_hidden">
+          </div>
+        </div>
+        <input name="text" type="text" placeholder="Message">
+        <button class="form_link" type="submit">Free consultation</button>
       </div>
-      <input name="text" type="text" placeholder="Message">
-      <button class="form_link" type="submit">Free consultation</button>
     </form>
   </div>
 </div>
+
+<?php require('sendmail.php'); ?>
 
 
 <?php get_footer(); ?>

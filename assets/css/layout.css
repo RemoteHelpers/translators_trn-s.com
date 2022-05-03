@@ -1099,7 +1099,7 @@ footer {
 
 
 /* validate forms styles */
-.form_input._error {
+._error {
   border-bottom: 2px solid rgb(255, 0, 0);
   transition: .3s;
 }
