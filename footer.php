@@ -20,7 +20,7 @@
       <div class="footer_links">
         <div>
           <i class="fa-brands fa-google-plus"></i>
-          <a href="##">sales@rh-s.com</a>
+          <a href="##">sales@trn-s.com</a>
         </div>
         <div>
           <i class="fa-brands fa-google-plus"></i>
@@ -37,6 +37,9 @@
 
 </div><!-- #page -->
 <?php wp_footer(); ?>
+
+<?php require('sendmail.php'); ?>
+
 
 </body>
 </html>

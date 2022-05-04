@@ -349,66 +349,67 @@
     <div class="form_title">
       <h2>Don’t hesitate to delegate tasks <br> and let your <span>company flourish</span></h2>
     </div>
-    <form action="sendmail.php" method="post" id="form">
+
+    <form action="#" id="form">
       <div class="form_check_block">
         <h3>Choose Interest area:</h3>
         <div>
           <label>
-            <input type="checkbox" class="default_checkbox form_input _req">
+            <input type="checkbox" class="default_checkbox">
             <span class="custom_checkbox">Translation services</span>
           </label>
           <label>
-            <input type="checkbox" class="default_checkbox form_input _req">
+            <input type="checkbox" class="default_checkbox">
             <span class="custom_checkbox">SEO and PPC services</span>
           </label>
           <label>
-            <input type="checkbox" class="default_checkbox form_input _req">
+            <input type="checkbox" class="default_checkbox">
             <span class="custom_checkbox">Get more information</span>
           </label>
         </div>
       </div>
       <div class="form_fields">
         <p>Leave your contact details, and we'll be in touch with you soon!</p>
-        <input class="form_input _req" name="name" require type="text" placeholder="First name">
-        <input class="form_input _req _email" name="email" require type="text" placeholder="Email">
+        <input class="form_input _req" name="name" type="text" placeholder="First name">
+        <input class="form_input _req _email" name="email" type="email" placeholder="Email">
         <div class="industry_dropdown">
           <div class="dropdown">
-            <button class="dropdown_button">Industry</button>
+            <button class="form_input dropdown_button">Industry</button>
             <ul class="industry_dropdown_list">
-              <li class="industry_dropdown_item" data-value="Elearning">Elearning</li>
-              <li class="industry_dropdown_item" data-value="Marketing">Marketing</li>
-              <li class="industry_dropdown_item" data-value="Media">Online Media</li>
-              <li class="industry_dropdown_item" data-value="Pharmaceutical">Pharmaceutical</li>
-              <li class="industry_dropdown_item" data-value="Information">Information Technology & Services</li>
-              <li class="industry_dropdown_item" data-value="Consumer">Consumer Services</li>
-              <li class="industry_dropdown_item" data-value="Medical">Medical services</li>
-              <li class="industry_dropdown_item" data-value="Retail">Retail</li>
+              <li class="industry_dropdown_item" data-value="Elearning"><span>Elearning</span></li>
+              <li class="industry_dropdown_item" data-value="Marketing"><span>Marketing</span></li>
+              <li class="industry_dropdown_item" data-value="Media"><span>Online Media</span></li>
+              <li class="industry_dropdown_item" data-value="Pharmaceutical"><span>Pharmaceutical</span></li>
+              <li class="industry_dropdown_item" data-value="Information"><span>Information Technology & Services</span></li>
+              <li class="industry_dropdown_item" data-value="Consumer"><span>Consumer Services</span></li>
+              <li class="industry_dropdown_item" data-value="Medical"><span>Medical services</span></li>
+              <li class="industry_dropdown_item" data-value="Retail"><span>Retail</span></li>
             </ul>
-            <input type="text" name="select-category" value="" class="dropdown_input_hidden">
+            <input type="text" name="select_industry" class="dropdown_input_hidden">
           </div>
         </div>
         <div class="country_dropdown">
           <div class="dropdown">
-            <button class="dropdown_button">Country</button>
+            <button class="form_input dropdown_button">Country</button>
             <ul class="industry_dropdown_list">
-              <li class="industry_dropdown_item" data-value="Elearning">Ukraine</li>
-              <li class="industry_dropdown_item" data-value="Marketing">Germany</li>
-              <li class="industry_dropdown_item" data-value="Media">USA</li>
-              <li class="industry_dropdown_item" data-value="Pharmaceutical">France</li>
-              <li class="industry_dropdown_item" data-value="Information">Italy</li>
-              <li class="industry_dropdown_item" data-value="Consumer">Poland</li>
+              <li class="industry_dropdown_item" data-value="Ukraine"><span>Ukraine</span></li>
+              <li class="industry_dropdown_item" data-value="Germany"><span>Germany</span></li>
+              <li class="industry_dropdown_item" data-value="USA"><span>USA</span></li>
+              <li class="industry_dropdown_item" data-value="France"><span>France</span></li>
+              <li class="industry_dropdown_item" data-value="Italy"><span>Italy</span></li>
+              <li class="industry_dropdown_item" data-value="Poland"><span>Poland</span></li>
             </ul>
-            <input type="text" name="select-category" value="" class="dropdown_input_hidden">
+            <input type="text" name="select_country" class="dropdown_input_hidden">
           </div>
         </div>
-        <input name="text" type="text" placeholder="Message">
+        <input name="message_input" type="text" placeholder="Message">
         <button class="form_link" type="submit">Free consultation</button>
       </div>
     </form>
+
   </div>
 </div>
 
-<?php require('sendmail.php'); ?>
 
 
 <?php get_footer(); ?>
