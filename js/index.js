@@ -41,7 +41,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
     const dropdownBtn = dropdownWrapper.querySelector('.dropdown_button'),
       dropdownList = dropdownWrapper.querySelector('.industry_dropdown_list'),
       dropdownListItem = dropdownList.querySelectorAll('.industry_dropdown_item'),
-      dropdownInputHidden = dropdownWrapper.querySelector('.dropdown_input_hidden');
+      dropdownInputHidden = dropdownWrapper.querySelector('.dropdown_input_hidden'),
+      dropdownArrow = dropdownWrapper.querySelectorAll('.dropdown_arrow_down');
 
     dropdownWrapper.addEventListener('click', function (event) {
       event.preventDefault();
@@ -49,7 +50,14 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
     dropdownBtn.addEventListener('click', function () {
       dropdownList.classList.toggle('industry_dropdown_list-visible');
+      dropdownArrow.forEach(function (item) {
+        item.classList.toggle('rotate_arrow');
+      })
+      if (dropdownBtn.innerText !== 'Industry' || dropdownBtn.innerText !== 'Country') {
+        dropdownBtn.style.color = '#000';
+      }
     })
+
 
     dropdownListItem.forEach(function (listItem) {
       listItem.addEventListener('click', function (e) {
@@ -57,6 +65,9 @@ document.addEventListener("DOMContentLoaded", function (event) {
         dropdownBtn.innerText = this.innerText;
         dropdownList.classList.remove('industry_dropdown_list-visible');
         dropdownInputHidden.value = this.dataset.value;
+        dropdownArrow.forEach(function (item) {
+          item.classList.remove('rotate_arrow');
+        })
       })
     })
 
@@ -87,70 +98,68 @@ document.addEventListener("DOMContentLoaded", function (event) {
   });
 
 
-    // sending form data
-    const form = document.querySelector('#form');
+  // sending form data
+  const form = document.querySelector('#form');
 
-    form.addEventListener('submit', formSend);
-  
-    async function formSend(e) {
-      e.preventDefault();
-      let error = formValidate(form);
-      let formData = new FormData(form);
-  
-      if (error === 0) {
-        let response = await fetch('sendmail.php', {
-          method: 'POST',
-          body: formData
-        });
-        if (response.ok) {
-          let result = await response.json();
-          alert(result.message);
-          form.reset();
-        } else {
-          alert('Data Send');
-        }
+  form.addEventListener('submit', formSend);
+
+  async function formSend(e) {
+    e.preventDefault();
+    let error = formValidate(form);
+    let formData = new FormData(form);
+
+    if (error === 0) {
+      let response = await fetch('sendmail.php', {
+        method: 'POST',
+        body: formData
+      });
+      if (response.ok) {
+        let result = await response.json();
       } else {
-        alert('Заполните поля!')
+        document.location.replace('thank-you-page');
       }
-  
+    } else {
+      // alert('Заполните поля!')
     }
-  
-    function formValidate(form) {
-      let error = 0;
-      let formReq = document.querySelectorAll('._req');
-  
-      for (let index = 0; index < formReq.length; index++) {
-        let input = formReq[index];
-        formRemoveError(input)
-  
-        if (input.classList.contains('_email')) {
-          if (emailTest(input)) {
-            formAddError(input);
-            error++;
-          }
-        } else if (input.getAttribute('type') === 'checkbox' && input.checked === false) {
+
+  }
+
+  function formValidate(form) {
+    let error = 0;
+    let formReq = document.querySelectorAll('._req');
+
+    for (let index = 0; index < formReq.length; index++) {
+      let input = formReq[index];
+      formRemoveError(input)
+
+      if (input.classList.contains('_email')) {
+        if (emailTest(input)) {
           formAddError(input);
           error++;
-        } else {
-          if (input.value === '') {
-            formAddError(input);
-            error++;
-          }
+        }
+      } else if (input.getAttribute('type') === 'checkbox' && input.checked === false) {
+        formAddError(input);
+        error++;
+      } else {
+        if (input.value === '') {
+          formAddError(input);
+          error++;
         }
       }
-      return error;
     }
-    function formAddError(input) {
-      input.parentElement.classList.add('_error');
-      input.classList.add('_error');
-    }
-    function formRemoveError(input) {
-      input.parentElement.classList.remove('_error');
-      input.classList.remove('_error');
-    }
-    function emailTest(input) {
-      return !/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,8})+$/.test(input.value);
-    }
+    return error;
+  }
+  function formAddError(input) {
+    input.parentElement.classList.add('_error');
+    input.classList.add('_error');
+  }
+  function formRemoveError(input) {
+    input.parentElement.classList.remove('_error');
+    input.classList.remove('_error');
+  }
+  function emailTest(input) {
+    return !/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,8})+$/.test(input.value);
+  }
 
 });
 

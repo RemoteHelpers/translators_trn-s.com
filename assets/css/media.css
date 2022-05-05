@@ -185,9 +185,10 @@
   }
   .form_check_block > div {
     display: block;
+    width: 100%;
   }
   .custom_checkbox {
-    width: 60%;
+    width: 90%;
     margin-bottom: 1.25rem;
   }
   .form_check_block > div label:last-child span {
@@ -394,7 +395,7 @@
     height: 100%;
   }
   .form_fields {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
   }
   .footer_links {
@@ -472,5 +473,93 @@
     display: block;
     max-width: 100%;
     height: 100%;
+  }
+  .service_cards {
+    display: none;
+  }
+  .first_mobile_card_wrapper {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: all .7s;
+  }
+  .active_card {
+    transform: rotateY(180deg);
+  }
+  .first_mobile_card {
+    backface-visibility: hidden;
+  }
+  .first_mobile_card_text {
+    transform: rotateY(180deg);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+
+
+  /* second mobile card */
+  .second_mobile_card_wrapper {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: all .7s;
+  }
+  .second_mobile_card {
+    backface-visibility: hidden;
+  }
+ .second_mobile_card_text {
+   transform: rotateY(180deg);
+   position: absolute;
+   backface-visibility: hidden;
+ }
+
+
+  .mobile_card_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 2.5rem;
+    padding: 3.75rem 0;
+    perspective: 1000px;
+  }
+  .mobile_cards {
+    width: 80%;
+    height: 14rem;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 30px rgba(17, 109, 220, 0.1);
+    border-radius: 2.813rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .mobile_cards p {
+    padding-top: 2.5rem;
+  }
+
+  .text_cards {
+    width: 80%;
+    height: 14rem;
+    background-color: #116DDC;
+    box-shadow: 1px 1px 30px rgba(17, 109, 220, 0.1);
+    border-radius: 2.813rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    padding: 0 1rem;
   }
 }

@@ -137,6 +137,9 @@ add_action( 'widgets_init', 'translators_widgets_init' );
 /**
  * Enqueue scripts and styles.
  */
+
+
+
 function translators_scripts() {
 
 	wp_enqueue_style( 'translators-style', get_stylesheet_uri(), array(), _S_VERSION );
@@ -155,6 +158,9 @@ function translators_scripts() {
 	wp_enqueue_script( 'swiper_script' );
 	wp_enqueue_script( 'index', get_template_directory_uri() . '/js/index.js' );
 
+	if ( is_page('page-thank-you-page') ) {
+		wp_enqueue_style( 'thank-you-page-styles', get_template_directory_uri() . '/assets/css/thank_page.css' );
+	}
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );

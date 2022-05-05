@@ -1,5 +1,32 @@
 <?php get_header(); ?>
 
+
+<header>
+  <div class="container">
+
+    <div class="logo">
+      <?php the_custom_logo('custom-logo'); ?>
+    </div>
+
+    <div class="info_container">
+      <div class="info_wrap">
+        <div class="header_info">
+          <h1>Let your company go global <br> with our outstanding <span>Translators</span> </h1>
+          <p>We offer translation services to produce more content for your website in new formats and in less time</p>
+          <div class="mobile_animation">
+            <img src="/wp-content/uploads/2022/05/illustration.png" alt="illustrarion">
+          </div>
+          <a href="#consultation">Get a consultation</a>
+        </div>
+        <div class="header_image">
+        <img src="/wp-content/uploads/2022/05/illustration.png" alt="illustrarion">
+        </div>
+      </div>
+    </div>
+
+  </div>
+</header>
+
 <main class="services">
   <div class="container">
     <div class="services_wrapper">
@@ -10,15 +37,28 @@
             trust us because of the high-quality services we deliver. Choose your option:</p>
         </div>
         <div class="service_cards">
-          <div class="first_card cards">
-            <p>If the website is still in your native language and you want it to sound English or Ukrainian, hurry up
-              to order the service!</p>
-          </div>
-          <div class="second_card cards">
-            <div class="second_card_img">
-              <img src="/wp-content/uploads/2022/04/icon.png" alt="">
+          <div class="first_card_wrapper">
+            <div class="first_card cards">
+              <div>
+                <img src="/wp-content/uploads/2022/04/first_mobile_card.png" alt="">
+              </div>
+              <p>Your native language ➞ <br> English \ Ukrainian</p>
             </div>
-            <p>Russian ➞ Ukrainian</p>
+            <div class="first_card_text desktop_card_text cards">
+              <p>If the website is still in your native language and you want it to sound English or Ukrainian, hurry up
+                to order the service!</p>
+            </div>
+          </div>
+          <div class="second_card_wrapper">
+            <div class="second_card cards">
+              <div>
+                <img src="/wp-content/uploads/2022/04/icon.png" alt="">
+              </div>
+              <p>Russian ➞ Ukrainian</p>
+            </div>
+            <div class="second_card_text desktop_card_text cards">
+              <p>OMG! Do you live in Ukraine and still haven’t changed your web page from Russian to Ukrainian? This needs to be fixed urgently!</p>
+            </div>
           </div>
         </div>
 
@@ -28,7 +68,7 @@
               <div>
                 <img src="/wp-content/uploads/2022/04/first_mobile_card.png" alt="mobile_card">
               </div>
-              <p>Your native language ➞ English \ Ukrainian</p>
+              <p>Your native language ➞ <br> English \ Ukrainian</p>
             </div>
             <div class="first_mobile_card_text text_cards">
               <p>If the website is still in your native language and you want it to sound English or Ukrainian, hurry up
@@ -58,7 +98,7 @@
               <div class="do_card_img">
                 <img src="/wp-content/uploads/2022/04/card1.png" alt="">
               </div>
-              <p>Document translation</p>
+              <p>Document <br> translation</p>
             </div>
 
             <div>
@@ -320,7 +360,7 @@
           <img src="<?php echo $pic['url'] ?>" alt="custom_bg">
         </div>
         <div class="benefits_img_info">
-          <h3>We are providing an excellent customer experience for reasonable prices.</h3>
+          <h3>We are providing an excellent <br> customer experience for <br> reasonable prices.</h3>
           <h3>Pay only <br> <span>€500</span> for <span>40</span> hours</h3>
           <a href="##">Learn more</a>
         </div>
@@ -333,7 +373,7 @@
           <img src="<?php echo $pic['url'] ?>" alt="custom_bg">
         </div>
         <div class="benefits_img_info">
-          <h3>We are providing an excellent customer experience for reasonable prices.</h3>
+          <h3>We are providing an excellent <br> customer experience for <br> reasonable prices.</h3>
           <h3>Pay only <br> <span>€500</span> for <span>40</span> hours</h3>
           <a href="##">Learn more</a>
         </div>
@@ -344,7 +384,7 @@
   </div>
 </div>
 
-<div class="form_block">
+<div id="consultation" class="form_block">
   <div class="container">
     <div class="form_title">
       <h2>Don’t hesitate to delegate tasks <br> and let your <span>company flourish</span></h2>
@@ -374,7 +414,12 @@
         <input class="form_input _req _email" name="email" type="email" placeholder="Email">
         <div class="industry_dropdown">
           <div class="dropdown">
-            <button class="form_input dropdown_button">Industry</button>
+            <div class="dropdown_top_line">
+              <button class="form_input dropdown_button">Industry</button>
+              <div class="dropdown_arrow_down">
+                <img src="/wp-content/uploads/2022/04/dropdown.png" alt="arrow">
+              </div>
+            </div>
             <ul class="industry_dropdown_list">
               <li class="industry_dropdown_item" data-value="Elearning"><span>Elearning</span></li>
               <li class="industry_dropdown_item" data-value="Marketing"><span>Marketing</span></li>
@@ -390,7 +435,12 @@
         </div>
         <div class="country_dropdown">
           <div class="dropdown">
+          <div class="dropdown_top_line">
             <button class="form_input dropdown_button">Country</button>
+              <div class="dropdown_arrow_down">
+                <img src="/wp-content/uploads/2022/04/dropdown.png" alt="arrow">
+              </div>
+            </div>
             <ul class="industry_dropdown_list">
               <li class="industry_dropdown_item" data-value="Ukraine"><span>Ukraine</span></li>
               <li class="industry_dropdown_item" data-value="Germany"><span>Germany</span></li>
@@ -402,7 +452,7 @@
             <input type="text" name="select_country" class="dropdown_input_hidden">
           </div>
         </div>
-        <input name="message_input" type="text" placeholder="Message">
+        <input name="message_input form_input" type="text" placeholder="Message">
         <button class="form_link" type="submit">Free consultation</button>
       </div>
     </form>
