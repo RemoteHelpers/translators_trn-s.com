@@ -19,18 +19,18 @@
       </div>
       <div class="footer_links">
         <div>
-          <i class="fa-brands fa-google-plus"></i>
+          <i class="fa-solid fa-envelope"></i>
           <a href="##">sales@trn-s.com</a>
         </div>
         <div>
-          <i class="fa-brands fa-google-plus"></i>
+          <i class="fa-solid fa-envelope"></i>
           <a href="##">info@trn-s.com</a>
         </div>
       </div>
     </div>
     <div class="privacy_policy">
       <p>2022 © All rights reserved</p>
-      <p>Privacy Policy</p>
+      <a href="/page-privacy-policy-page" target="_blank">Privacy Policy</a>
     </div>
   </div>
 </footer>

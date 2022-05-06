@@ -16,7 +16,7 @@
           <div class="mobile_animation">
             <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_aqniztc5.json"  background="transparent"  speed="1"  style="width: 100%; height: 100%;"  loop autoplay></lottie-player>
           </div>
-          <a href="#consultation">Get a consultation</a>
+          <a href="#consultation">Order Ukrainian services</a>
         </div>
         <div class="header_image">
             <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_aqniztc5.json"  background="transparent"  speed="1"  style="width: 100%; height: 100%;"  loop autoplay></lottie-player>
@@ -360,9 +360,9 @@
           <img src="<?php echo $pic['url'] ?>" alt="custom_bg">
         </div>
         <div class="benefits_img_info">
-          <h3>We are providing an excellent <br> customer experience for <br> reasonable prices.</h3>
-          <h3>Pay only <br> <span>€500</span> for <span>40</span> hours</h3>
-          <a href="##">Learn more</a>
+          <h2>We are providing an excellent <br> customer experience for <br> reasonable prices.</h2>
+          <h2>Pay only <br> <span>€500</span> for <span>40</span> hours</h2>
+          <a href="https://www.rh-s.com/employees/" target="_blank">Learn more</a>
         </div>
       </div>
 
@@ -375,7 +375,7 @@
         <div class="benefits_img_info">
           <h3>We are providing an excellent <br> customer experience for <br> reasonable prices.</h3>
           <h3>Pay only <br> <span>€500</span> for <span>40</span> hours</h3>
-          <a href="##">Learn more</a>
+          <a href="https://www.rh-s.com/employees/" target="_blank">Learn more</a>
         </div>
       </div>
 

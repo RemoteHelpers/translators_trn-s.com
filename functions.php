@@ -161,6 +161,9 @@ function translators_scripts() {
 	if ( is_page('page-thank-you-page') ) {
 		wp_enqueue_style( 'thank-you-page-styles', get_template_directory_uri() . '/assets/css/thank_page.css' );
 	}
+	if ( is_page('page-privacy-policy-page') ) {
+		wp_enqueue_style( 'privacy-policy-page-styles', get_template_directory_uri() . '/assets/css/privacy_policy.css' );
+	}
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );

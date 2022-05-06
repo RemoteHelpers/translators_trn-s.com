@@ -198,7 +198,7 @@ header::before {
   font-weight: 400;
   color: #333333;
   opacity: 0.8;
-  margin: 2.5rem 0;
+  margin: 2.5rem 0 6rem;
   font-size: clamp(20px, 0.9vw, 32px);
 }
 .header_info a {
@@ -350,7 +350,7 @@ header::before {
   position: relative;
   transform-style: preserve-3d;
   transition: all .7s;
-  transition: .8s ease-in-out;
+  transition: .4s ease-in-out;
 }
 .first_card_wrapper:hover {
   transform: rotateY(180deg);
@@ -366,7 +366,7 @@ header::before {
   position: relative;
   transform-style: preserve-3d;
   transition: all .7s;
-  transition: .8s ease-in-out;
+  transition: .4s ease-in-out;
 }
 
 .second_card_wrapper:hover {
@@ -381,9 +381,6 @@ header::before {
   position: absolute;
   backface-visibility: hidden;
 }
-
-
-
 
 
 .mobile_card_wrapper {
@@ -500,7 +497,7 @@ header::before {
   color: #333333;
   mix-blend-mode: normal;
   opacity: 0.8;
-  margin: 4.063rem 0;
+  margin: 3rem 0 6rem;
 }
 
 .slider {
@@ -716,6 +713,7 @@ header::before {
   content: '';
   position: absolute;
   display: inline-block;
+  border-radius: .25rem 0 0 .25rem;
   top: 50%;
   transform: translateY(-50%);
   right: 0;
@@ -728,6 +726,7 @@ header::before {
   content: '';
   position: absolute;
   display: inline-block;
+  border-radius: .25rem 0 0 .25rem;
   top: 30%;
   transform: translateY(-30%);
   right: 7.5rem;
@@ -826,8 +825,9 @@ header::before {
 }
 .benefits_img img {
   text-align: center;
-  max-width: 100%;
-  max-height: 100%;
+  width: 100%;
+  height: auto;
+  background-size: contain;
   border-radius: .5rem;
 }
 
@@ -836,11 +836,23 @@ header::before {
   height: auto;
   text-align: center;
   position: absolute;
-  top: 60%;
+  top: 70%;
   left: 50%;
-  transform: translate(-50%, -60%);
+  transform: translate(-50%, -70%);
   z-index: 1;
   color: #fff;
+}
+.benefits_img_info h2:nth-child(2) {
+  margin: 2.188rem 0 3.438rem;
+}
+.benefits_img_info h2 {
+  font-style: normal;
+  font-family: 'Merriweather', serif;
+  font-size: clamp(16px, 2vw, 30px);
+  font-weight: 700;
+}
+.benefits_img_info h2 span {
+  color: #F1C00F;
 }
 .benefits_img_info h3:nth-child(2) {
   margin: 2.188rem 0 3.438rem;
@@ -848,6 +860,7 @@ header::before {
 .benefits_img_info h3 {
   font-style: normal;
   font-family: 'Merriweather', serif;
+  font-size: clamp(16px, 2vw, 30px);
   font-weight: 700;
 }
 .benefits_img_info h3 span {
@@ -861,7 +874,7 @@ header::before {
   padding: 0.938rem 2.188rem;
   background: #116DDC;
   box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.25);
-  border-radius: 1.625rem;
+  border-radius: 1.375rem;
   opacity: 1;
   transition: .3s;
 }
@@ -1107,7 +1120,7 @@ header::before {
   color: #fff;
   background: #000000;
   box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.25);
-  border-radius: 1.625rem;
+  border-radius: 1.375rem;
   padding: 1rem 1.25rem;
   font-style: normal;
   font-weight: 700;
@@ -1149,13 +1162,17 @@ footer {
 .footer_links > div a:hover {
   text-decoration: underline;
 }
-.fa-brands {
-  font-size: 2.25rem;
-  color: #222221;
-}
 .footer_links > div {
   display: flex;
   align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer_links > div i {
+  font-size: 1.25rem;
+  color: #222221;
+  margin-top: 4px;
 }
 
 .privacy_policy {
@@ -1163,6 +1180,14 @@ footer {
   text-align: center;
 }
 .privacy_policy p {
+  font-style: normal;
+  font-weight: 400;
+  color: #333333;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  line-height: 2;
+}
+.privacy_policy a {
   font-style: normal;
   font-weight: 400;
   color: #333333;
