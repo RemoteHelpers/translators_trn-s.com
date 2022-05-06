@@ -12,14 +12,14 @@
       <div class="info_wrap">
         <div class="header_info">
           <h1>Let your company go global <br> with our outstanding <span>Translators</span> </h1>
-          <p>We offer translation services to produce more content for your website in new formats and in less time</p>
+          <p>We offer translation services to produce more content for <br> your website in new formats and in less time</p>
           <div class="mobile_animation">
-            <img src="/wp-content/uploads/2022/05/illustration.png" alt="illustrarion">
+            <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_aqniztc5.json"  background="transparent"  speed="1"  style="width: 100%; height: 100%;"  loop autoplay></lottie-player>
           </div>
           <a href="#consultation">Get a consultation</a>
         </div>
         <div class="header_image">
-        <img src="/wp-content/uploads/2022/05/illustration.png" alt="illustrarion">
+            <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_aqniztc5.json"  background="transparent"  speed="1"  style="width: 100%; height: 100%;"  loop autoplay></lottie-player>
         </div>
       </div>
     </div>
@@ -276,7 +276,7 @@
           </div>
           <div class="info_card_step">
             <h3>Keep in touch</h3>
-            <p>Fill out the contact form, connect with our managers, and get advice on candidates under your
+            <p>Fill out the contact form, connect with our <br> managers, and get advice on candidates <br> under your
               requirements</p>
             <span>01</span>
           </div>
@@ -288,7 +288,7 @@
           </div>
           <div class="info_card_step">
             <h3>Agreement</h3>
-            <p>Discuss the start date, working process, and sign the service agreement​</p>
+            <p>Discuss the start date, working process, <br> and sign the service agreement​</p>
             <span>02</span>
           </div>
         </div>
@@ -299,7 +299,7 @@
           </div>
           <div class="info_card_step">
             <h3>Getting to work</h3>
-            <p>All communication is configured and tasks are performed within previously announced deadlines</p>
+            <p>All communication is configured and tasks <br> are performed within previously <br> announced deadlines</p>
             <span>03</span>
           </div>
         </div>
@@ -330,19 +330,19 @@
           </div>
           <div class="benefits_card">
             <span class="denefit_num">2</span>
-            <p>Convenient schedule for your time zone</p>
+            <p>Convenient schedule <br> for your time zone</p>
           </div>
           <div class="benefits_card">
             <span class="denefit_num">3</span>
-            <p>Accurate selection of all candidates</p>
+            <p>Accurate selection <br> of all candidates</p>
           </div>
           <div class="benefits_card">
             <span class="denefit_num">4</span>
-            <p>Getting highly qualified assistance</p>
+            <p>Getting highly <br> qualified assistance</p>
           </div>
           <div class="benefits_card">
             <span class="denefit_num">5</span>
-            <p>Staff training for several months</p>
+            <p>Staff training for <br> several months</p>
           </div>
           <div class="benefits_card">
             <span class="denefit_num">6</span>
