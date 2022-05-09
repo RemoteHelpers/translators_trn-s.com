@@ -1,0 +1,26 @@
+<?php
+  $name = $_POST['name'];
+  $email = $_POST['email'];
+  $message = $_POST['message'];
+  $name = htmlspecialchars($name);
+  $email = htmlspecialchars($email);
+  $message = htmlspecialchars($message);
+  $name = urldecode($name);
+  $email = urldecode($email);
+  $message = urldecode($message);
+  $name = trim($name);
+  $email = trim($email);
+  $message = trim($message);
+
+
+  mail("asven0099@gmail.com", 
+    "Заявка с сайта: ", 
+    "ФИО: ".$name. 
+    "E-mail: ".$email,
+    "Message: ".$message,
+    "Industry: ".$industry,
+    "Country: ".$country,
+    "From: trn-s.com \r\n");
+?>
+
+action="sendmail.php" method="post"
