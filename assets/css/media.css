@@ -362,6 +362,31 @@
   .form_block {
     padding: 3rem 0;
   }
+  .video_wrapper {
+    width: 100%;
+    height: auto;
+  }
+
+  .candidates_cards {
+    width: 100%;
+    height: auto;
+  }
+  .candidate_card:nth-child(2) {
+    transform: translateY(0);
+  }
+  .candidates_cards::before,
+  .candidates_cards::after {
+    display: none;
+  }
+  .candidate_wrapper {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+  }
+  .candidate_card {
+    width: 100%;
+    margin: 0 auto;
+  }
 
 }
 
@@ -378,6 +403,30 @@
 
 
 @media (max-width: 991px) {
+  .candidate_card:nth-child(2) {
+    transform: translateY(0);
+  }
+  .candidates_cards {
+    width: 100%;
+    height: auto;
+  }
+  .candidates_cards::before,
+  .candidates_cards::after {
+    display: none;
+  }
+  .candidate_wrapper {
+    display: flex;
+    row-gap: 2rem;
+    flex-direction: column;
+  }
+  .candidate_card {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+
+
+  
   .container {
     width: 85%;
     height: auto;

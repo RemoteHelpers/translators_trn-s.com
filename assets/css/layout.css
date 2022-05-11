@@ -131,7 +131,7 @@ h3 {
   font-family: 'Merriweather', serif;
 }
 p {
-  font-size: clamp(18px, 0.9vw, 32px);
+  font-size: clamp(16px, 0.9vw, 32px);
 }
 a {
   font-size: clamp(16px, 0.9vw, 18px);
@@ -200,7 +200,7 @@ header::before {
   color: #333333;
   opacity: 0.8;
   margin: 2.5rem 0 6rem;
-  font-size: clamp(17px, 0.9vw, 32px);
+  font-size: clamp(18px, 0.9vw, 32px);
 }
 .header_info a {
   font-weight: 700;
@@ -342,7 +342,7 @@ header::before {
 
 .first_card_wrapper {
   width: 45%;
-  max-width: 24rem;
+  max-width: 20rem;
   height: 18rem;
   display: flex;
   flex-direction: column;
@@ -358,7 +358,7 @@ header::before {
 }
 .second_card_wrapper {
   width: 45%;
-  max-width: 24rem;
+  max-width: 20rem;
   height: 18rem;
   display: flex;
   flex-direction: column;
@@ -435,6 +435,182 @@ header::before {
 .do_card_img img {
   max-width: 100%;
   height: auto;
+}
+
+
+
+
+
+.video_block {
+  width: 100%;
+  height: auto;
+}
+.video_wrapper {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+}
+.video_wrapper video {
+  border-radius: 1.5rem;
+}
+
+
+
+
+.candidates {
+  width: 100%;
+  height: auto;
+  padding: 6rem 0;
+}
+.candidates_title {
+  width: 100%;
+  text-align: center;
+}
+.candidates_title h1 {
+  font-style: normal;
+  font-weight: 700;
+  text-transform: capitalize;
+  color: #333333;
+}
+.candidates_title h1 span {
+  color: #116DDC;
+}
+.candidates_title p {
+  font-style: normal;
+  font-weight: 400;
+  color: #333333;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  margin: 2.875rem 0 4rem;
+}
+.candidates_cards {
+  width: 100%;
+  height: 42rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.candidate_wrapper {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.candidates_cards::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('/wp-content/uploads/2022/05/candidate_decoration_left.png') no-repeat top left;
+  background-size: contain;
+  z-index: -1;
+}
+.candidates_cards::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: url('/wp-content/uploads/2022/05/candidate_decoration_right.png') no-repeat top right;
+  background-size: contain;
+  z-index: -1;
+}
+
+
+.candidate_card {
+  max-width: 450px;
+  width: 30%;
+  height: auto;
+  box-shadow: 1px 1px 30px rgba(0, 104, 223, 0.1);
+  border-radius: 1.875rem;
+}
+.candidate_card:nth-child(2) {
+  transform: translateY(-3.75rem);
+}
+.candidate_photo {
+  width: 100%;
+  height: auto;
+  background-color: #fff;
+  border-radius: 1.875rem 1.875rem 0 0;
+}
+.candidate_photo a img {
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+}
+.candidate_info {
+  background-color: #fff;
+  border-radius: 0 0 1.875rem 1.875rem;
+  text-align: center;
+  padding: 2.125rem 0;
+}
+.candidate_info h2 {
+  font-style: normal;
+  font-size: clamp(18px, 2.5vw, 20px);
+  font-weight: bold;
+  color: #000000;
+}
+.candidate_info p {
+  line-height: 2;
+  font-style: normal;
+  font-weight: 400;
+  color: #000000;
+}
+.candidate_info h4 {
+  font-style: normal;
+  font-weight: 700;
+  color: #000000;
+  margin-top: 1rem;
+  font-family: 'Merriweather', serif;
+}
+
+.candidate_skills {
+  width: 100%;
+  margin-top: 1rem;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  row-gap: 1rem;
+}
+.candidate_skills span {
+  display: inline-block;
+  border-radius: 1rem;
+  background-color: #ecf0f1;
+  padding: .5rem 1rem;
+  margin-right: .5rem;
+  color: #54595f;
+}
+.candidate_skills span:last-child {
+  margin: 0;
+}
+
+
+.candidates_link {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  margin-top: 2rem;
+}
+.candidates_link a {
+  display: inline-block;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 700;
+  color: #FFFFFF;
+  padding: 1rem 3rem;
+  background-color: #116DDC;
+  border-radius: 1.375rem;
+  transition: .3s;
+}
+.candidates_link a:hover {
+  opacity: .8;
 }
 
 
@@ -819,16 +995,18 @@ header::before {
   z-index: 1;
 }
 .benefits_img {
-  max-width: 95%;
+  width: 95%;
+  max-width: 650px;
   height: auto;
   position: relative;
   top: 2.5rem;
+  margin: 0 auto;
 }
 .benefits_img img {
   text-align: center;
   width: 100%;
   height: auto;
-  background-size: contain;
+  background-size: cover;
   border-radius: .5rem;
 }
 
@@ -908,6 +1086,7 @@ header::before {
 }
 .form_title h2 {
   font-family: 'Merriweather', serif;
+  font-size: clamp(18px, 2.5vw, 42px);
   font-style: normal;
   font-weight: 700;
   text-transform: capitalize;
@@ -1023,6 +1202,9 @@ header::before {
   font-style: normal;
   font-weight: 400;
 }
+.dropdown_button:focus {
+  border-bottom: 2px solid #116DDC;
+}
 .dropdown_top_line {
   width: 100%;
   height: auto;
@@ -1034,6 +1216,7 @@ header::before {
   top: 5px;
   cursor: pointer;
   transition: .3s ease-in-out;
+  pointer-events: none;
 }
 
 .rotate_arrow {
@@ -1107,7 +1290,7 @@ header::before {
   visibility: hidden;
   transition: .3s ease-in-out;
 }
-.industry_dropdown_item span:hover::after {
+.industry_dropdown_item:hover span::after {
   opacity: 1;
   visibility: visible;
   bottom: -7px;
@@ -1153,29 +1336,18 @@ footer {
   left: 50%;
   transform: translateX(-50%);
 }
-.footer_links > div a {
-  text-decoration: none;
+.footer_links > div p {
   font-style: normal;
   font-weight: 400;
   color: #333333;
   padding-left: 1rem;
-}
-.footer_links > div a:hover {
-  text-decoration: underline;
 }
 .footer_links > div {
   display: flex;
   align-items: center;
   display: flex;
   align-items: center;
-  justify-content: center;
 }
-.footer_links > div i {
-  font-size: 1.25rem;
-  color: #222221;
-  margin-top: 4px;
-}
-
 .privacy_policy {
   padding-top: 3.438rem;
   text-align: center;

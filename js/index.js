@@ -74,12 +74,18 @@ document.addEventListener("DOMContentLoaded", function (event) {
     document.addEventListener('click', function (e) {
       if (e.target !== dropdownBtn) {
         dropdownList.classList.remove('industry_dropdown_list-visible');
+        dropdownArrow.forEach(function (item) {
+          item.classList.remove('rotate_arrow');
+        })
       }
     })
 
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Tab' || e.key === 'Escape') {
         dropdownList.classList.remove('industry_dropdown_list-visible');
+        dropdownArrow.forEach(function (item) {
+          item.classList.remove('rotate_arrow');
+        })
       }
     })
   });

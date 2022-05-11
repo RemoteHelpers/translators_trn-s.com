@@ -33,8 +33,8 @@
       <div class="service_container">
         <div class="service_title">
           <h1>Online <span>Services</span></h1>
-          <p>We enable our clients to be understood worldwide by translating web pages according to their industry. They
-            trust us because of the high-quality services we deliver. Choose your option:</p>
+          <p>We enable our clients to be understood worldwide by translating web pages according to their industry. <br> 
+            They trust us because of the high-quality services we deliver. Choose your option:</p>
         </div>
         <div class="service_cards">
           <div class="first_card_wrapper">
@@ -45,7 +45,7 @@
               <p>Your native language ➞ <br> English \ Ukrainian</p>
             </div>
             <div class="first_card_text desktop_card_text cards">
-              <p>If the website is still in your native language and you want it to sound English or Ukrainian, hurry up
+              <p>If the website is still in your <br> native language and you want it <br> to sound English or Ukrainian, <br> hurry up
                 to order the service!</p>
             </div>
           </div>
@@ -57,7 +57,7 @@
               <p>Russian ➞ Ukrainian</p>
             </div>
             <div class="second_card_text desktop_card_text cards">
-              <p>OMG! Do you live in Ukraine and still haven’t changed your web page from Russian to Ukrainian? This needs to be fixed urgently!</p>
+              <p>OMG! Do you live in Ukraine <br> and still haven’t changed your <br>  web page from Russian to <br> Ukrainian? This needs to be <br> fixed urgently!</p>
             </div>
           </div>
         </div>
@@ -98,7 +98,7 @@
               <div class="do_card_img">
                 <img src="/wp-content/uploads/2022/04/card1.png" alt="">
               </div>
-              <p>Document <br> translation</p>
+              <p>Document</p>
             </div>
 
             <div>
@@ -133,7 +133,7 @@
               <div class="do_card_img">
                 <img src="/wp-content/uploads/2022/04/card6.png" alt="">
               </div>
-              <p>Localization</p>
+              <p>Proofreading</p>
             </div>
 
           </div>
@@ -143,6 +143,15 @@
     </div>
   </div>
 </main>
+
+
+<div class="video_block">
+  <div class="container">
+    <div class="video_wrapper">
+      <video width="100%" height="100%" controls poster="/wp-content/uploads/2022/05/video_picture.png" src="/wp-content/uploads/2022/05/promo.mp4"></video>
+    </div>
+  </div>
+</div>
 
 
 <div class="slider_block">
@@ -384,6 +393,83 @@
   </div>
 </div>
 
+
+
+<div class="candidates">
+  <div class="candidates_title">
+    <h1>sample of <span>our candidates</span></h1>
+    <p>Here you can see examples of our candidates.</p>
+  </div>
+  <div class="candidates_cards">
+    <div class="container">
+      <div class="candidate_wrapper">
+        <div class="candidate_card">
+          <div class="candidate_photo">
+            <a href="https://www.rh-s.com/uliana-k/" target="_blank">
+              <img width="300" height="300" alt="Uliana_K_53056_draw" sizes="(max-width: 300px) 100vw, 300px" nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-650x650.png 650w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1.png 1080w" nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png" class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty="" id="Mjc3OjE1OTM=-1" src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png" srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-650x650.png 650w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1.png 1080w">
+            </a>
+          </div>
+          <div class="candidate_info">
+            <h2>Uliana K.</h2>
+            <p>English / Ukrainian</p>
+            <h4>Most used skills and tools:</h4>
+            <div class="candidate_skills">
+              <span>Data Entry</span>
+              <span>Copywriting</span>
+              <span>Grammarly</span>
+              <span>CRM</span>
+            </div>
+          </div>
+        </div>
+        <div class="candidate_card">
+          <div class="candidate_photo">
+            <a href="https://www.rh-s.com/olena-m/" target="_blank">
+              <img width="300" height="300" alt="Hire PPC Manager" sizes="(max-width: 300px) 100vw, 300px" nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw.jpg 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-150x150.jpg 150w" nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-300x300.jpg" class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty="" id="MjgzOjc0Mw==-1" src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-300x300.jpg" srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw.jpg 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-150x150.jpg 150w">
+            </a>
+          </div>
+          <div class="candidate_info">
+            <h2>Olena M.</h2>
+            <p>English / Ukrainian</p>
+            <h4>Most used skills and tools:</h4>
+            <div class="candidate_skills">
+              <span>Data Search</span>
+              <span>Elementor</span>
+              <span>XMind</span>
+              <span>Keyword Planner</span>
+            </div>
+          </div>
+        </div>
+        <div class="candidate_card">
+          <div class="candidate_photo">
+            <a href="https://www.rh-s.com/olena-u/" target="_blank">
+              <img width="300" height="300" alt="hire copywriter, remote copywriter" sizes="(max-width: 300px) 100vw, 300px" nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-e1649927001551.png 500w" nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png" class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty="" id="Mjc3OjE0MTk=-1" src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png" srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-e1649927001551.png 500w">
+            </a>
+          </div>
+          <div class="candidate_info">
+            <h2>Olena U.</h2>
+            <p>English / Ukrainian</p>
+            <h4>Most used skills and tools:</h4>
+            <div class="candidate_skills">
+              <span>Data Entry</span>
+              <span>Data Search</span>
+              <span>Google Analytics</span>
+              <span>Copywriting</span>
+              <span>Advego</span>
+              <span>Google Tag Manager</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="candidates_link">
+    <a href="https://www.rh-s.com/employees?_sft_staff_categories=copywriter" target="_blank">Show more</a>
+  </div>
+</div>
+
+
+
+
 <div id="consultation" class="form_block">
   <div class="container">
     <div class="form_title">
@@ -471,11 +557,11 @@
       <div class="footer_links">
         <div>
           <img src="/wp-content/uploads/2022/05/footer_mail_icon.png" alt="mail_icon">
-          <a href="##">sales@trn-s.com</a>
+          <p>sales@trn-s.com</p>
         </div>
         <div>
           <img src="/wp-content/uploads/2022/05/footer_mail_icon.png" alt="mail_icon">
-          <a href="##">info@trn-s.com</a>
+          <p>info@trn-s.com</p>
         </div>
       </div>
     </div>

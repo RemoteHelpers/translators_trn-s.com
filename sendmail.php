@@ -15,7 +15,7 @@
 
 
   if (!empty($_POST)) {
-    $mail->setFrom('info@trn-s.com', 'trn-s.com message');
+    $mail->setFrom($_POST['email'], 'trn-s.com message from:');
     $mail->addAddress('asven0099@gmail.com');
 
     $mail->Subject = 'Consultation!';
@@ -55,6 +55,5 @@
   }
 
 
-  
 
 ?>
