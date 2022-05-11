@@ -12,14 +12,17 @@
       <div class="info_wrap">
         <div class="header_info">
           <h1>Let your company go global <br> with our outstanding <span>Translators</span> </h1>
-          <p>We offer translation services to produce more content for <br> your website in new formats and in less time</p>
+          <p>We offer translation services to produce more content for <br> your website in new formats and in less time
+          </p>
           <div class="mobile_animation">
-            <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_aqniztc5.json"  background="transparent"  speed="1"  style="width: 100%; height: 100%;"  loop autoplay></lottie-player>
+            <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_aqniztc5.json" background="transparent"
+              speed="1" style="width: 100%; height: 100%;" loop autoplay></lottie-player>
           </div>
           <a href="#consultation">Order Ukrainian services</a>
         </div>
         <div class="header_image">
-            <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_aqniztc5.json"  background="transparent"  speed="1"  style="width: 100%; height: 100%;"  loop autoplay></lottie-player>
+          <lottie-player src="https://assets9.lottiefiles.com/packages/lf20_aqniztc5.json" background="transparent"
+            speed="1" style="width: 100%; height: 100%;" loop autoplay></lottie-player>
         </div>
       </div>
     </div>
@@ -33,7 +36,7 @@
       <div class="service_container">
         <div class="service_title">
           <h1>Online <span>Services</span></h1>
-          <p>We enable our clients to be understood worldwide by translating web pages according to their industry. <br> 
+          <p>We enable our clients to be understood worldwide by translating web pages according to their industry. <br>
             They trust us because of the high-quality services we deliver. Choose your option:</p>
         </div>
         <div class="service_cards">
@@ -45,7 +48,8 @@
               <p>Your native language ➞ <br> English \ Ukrainian</p>
             </div>
             <div class="first_card_text desktop_card_text cards">
-              <p>If the website is still in your <br> native language and you want it <br> to sound English or Ukrainian, <br> hurry up
+              <p>If the website is still in your <br> native language and you want it <br> to sound English or
+                Ukrainian, <br> hurry up
                 to order the service!</p>
             </div>
           </div>
@@ -57,7 +61,8 @@
               <p>Russian ➞ Ukrainian</p>
             </div>
             <div class="second_card_text desktop_card_text cards">
-              <p>OMG! Do you live in Ukraine <br> and still haven’t changed your <br>  web page from Russian to <br> Ukrainian? This needs to be <br> fixed urgently!</p>
+              <p>OMG! Do you live in Ukraine <br> and still haven’t changed your <br> web page from Russian to <br>
+                Ukrainian? This needs to be <br> fixed urgently!</p>
             </div>
           </div>
         </div>
@@ -148,7 +153,8 @@
 <div class="video_block">
   <div class="container">
     <div class="video_wrapper">
-      <video width="100%" height="100%" controls poster="/wp-content/uploads/2022/05/video_picture.png" src="/wp-content/uploads/2022/05/promo.mp4"></video>
+      <video width="100%" height="100%" controls poster="/wp-content/uploads/2022/05/video_picture.png"
+        src="/wp-content/uploads/2022/05/promo.mp4"></video>
     </div>
   </div>
 </div>
@@ -308,7 +314,8 @@
           </div>
           <div class="info_card_step">
             <h3>Getting to work</h3>
-            <p>All communication is configured and tasks <br> are performed within previously <br> announced deadlines</p>
+            <p>All communication is configured and tasks <br> are performed within previously <br> announced deadlines
+            </p>
             <span>03</span>
           </div>
         </div>
@@ -406,7 +413,13 @@
         <div class="candidate_card">
           <div class="candidate_photo">
             <a href="https://www.rh-s.com/uliana-k/" target="_blank">
-              <img width="300" height="300" alt="Uliana_K_53056_draw" sizes="(max-width: 300px) 100vw, 300px" nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-650x650.png 650w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1.png 1080w" nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png" class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty="" id="Mjc3OjE1OTM=-1" src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png" srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-650x650.png 650w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1.png 1080w">
+              <img width="300" height="300" alt="Uliana_K_53056_draw" sizes="(max-width: 300px) 100vw, 300px"
+                nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-650x650.png 650w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1.png 1080w"
+                nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png"
+                class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty=""
+                id="Mjc3OjE1OTM=-1"
+                src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png"
+                srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-650x650.png 650w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1.png 1080w">
             </a>
           </div>
           <div class="candidate_info">
@@ -424,7 +437,13 @@
         <div class="candidate_card">
           <div class="candidate_photo">
             <a href="https://www.rh-s.com/olena-m/" target="_blank">
-              <img width="300" height="300" alt="Hire PPC Manager" sizes="(max-width: 300px) 100vw, 300px" nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw.jpg 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-150x150.jpg 150w" nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-300x300.jpg" class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty="" id="MjgzOjc0Mw==-1" src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-300x300.jpg" srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw.jpg 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-150x150.jpg 150w">
+              <img width="300" height="300" alt="Hire PPC Manager" sizes="(max-width: 300px) 100vw, 300px"
+                nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw.jpg 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-150x150.jpg 150w"
+                nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-300x300.jpg"
+                class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty=""
+                id="MjgzOjc0Mw==-1"
+                src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-300x300.jpg"
+                srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw.jpg 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-150x150.jpg 150w">
             </a>
           </div>
           <div class="candidate_info">
@@ -442,7 +461,14 @@
         <div class="candidate_card">
           <div class="candidate_photo">
             <a href="https://www.rh-s.com/olena-u/" target="_blank">
-              <img width="300" height="300" alt="hire copywriter, remote copywriter" sizes="(max-width: 300px) 100vw, 300px" nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-e1649927001551.png 500w" nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png" class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty="" id="Mjc3OjE0MTk=-1" src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png" srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-e1649927001551.png 500w">
+              <img width="300" height="300" alt="hire copywriter, remote copywriter"
+                sizes="(max-width: 300px) 100vw, 300px"
+                nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-e1649927001551.png 500w"
+                nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png"
+                class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty=""
+                id="Mjc3OjE0MTk=-1"
+                src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png"
+                srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Olena_Uva_54955_draw-e1649927001551.png 500w">
             </a>
           </div>
           <div class="candidate_info">
@@ -511,7 +537,8 @@
               <li class="industry_dropdown_item" data-value="Marketing"><span>Marketing</span></li>
               <li class="industry_dropdown_item" data-value="Media"><span>Online Media</span></li>
               <li class="industry_dropdown_item" data-value="Pharmaceutical"><span>Pharmaceutical</span></li>
-              <li class="industry_dropdown_item" data-value="Information"><span>Information Technology & Services</span></li>
+              <li class="industry_dropdown_item" data-value="Information"><span>Information Technology & Services</span>
+              </li>
               <li class="industry_dropdown_item" data-value="Consumer"><span>Consumer Services</span></li>
               <li class="industry_dropdown_item" data-value="Medical"><span>Medical services</span></li>
               <li class="industry_dropdown_item" data-value="Retail"><span>Retail</span></li>
@@ -521,8 +548,8 @@
         </div>
         <div class="country_dropdown">
           <div class="dropdown">
-          <div class="dropdown_top_line">
-            <button class="form_input dropdown_button">Country</button>
+            <div class="dropdown_top_line">
+              <button class="form_input dropdown_button">Country</button>
               <div class="dropdown_arrow_down">
                 <img src="/wp-content/uploads/2022/04/dropdown.png" alt="arrow">
               </div>
