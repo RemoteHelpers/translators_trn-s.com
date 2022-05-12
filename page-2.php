@@ -412,49 +412,36 @@
       <div class="candidate_wrapper">
         <div class="candidate_card">
           <div class="candidate_photo">
-            <a href="https://www.rh-s.com/uliana-k/" target="_blank">
-              <img width="300" height="300" alt="Uliana_K_53056_draw" sizes="(max-width: 300px) 100vw, 300px"
-                nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-650x650.png 650w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1.png 1080w"
-                nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png"
-                class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty=""
-                id="Mjc3OjE1OTM=-1"
-                src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png"
-                srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1-650x650.png 650w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/02/Uliana_K_53056_draw-1.png 1080w">
+            <a href="https://www.rh-s.com/daria-n/" target="_blank">
+              <img width="300" height="300" alt="hire lead generator, hire lead generation manager, remote lead generation specialist" sizes="(max-width: 300px) 100vw, 300px" nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-e1650434892450.png 500w" nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-300x300.png" class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty="" id="Mjc3OjE0Njk=-1" src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-300x300.png" srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-300x300.png 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-1024x1024.png 1024w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-150x150.png 150w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-768x768.png 768w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2022/04/Daria_Nov_54886_draw-e1650434892450.png 500w">
             </a>
           </div>
           <div class="candidate_info">
-            <h2>Uliana K.</h2>
+            <h2>Daria N.</h2>
             <p>English / Ukrainian</p>
-            <h4>Most used skills and tools:</h4>
             <div class="candidate_skills">
               <span>Data Entry</span>
-              <span>Copywriting</span>
-              <span>Grammarly</span>
+              <span>Data Search</span>
               <span>CRM</span>
             </div>
           </div>
         </div>
         <div class="candidate_card">
           <div class="candidate_photo">
-            <a href="https://www.rh-s.com/olena-m/" target="_blank">
-              <img width="300" height="300" alt="Hire PPC Manager" sizes="(max-width: 300px) 100vw, 300px"
-                nitro-lazy-srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw.jpg 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-150x150.jpg 150w"
-                nitro-lazy-src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-300x300.jpg"
-                class="attachment-medium size-medium webpexpress-processed lazyloaded" nitro-lazy-empty=""
-                id="MjgzOjc0Mw==-1"
-                src="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-300x300.jpg"
-                srcset="https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw.jpg 300w, https://cdn-fhbbb.nitrocdn.com/umphOpSoILvVEAhzpYZoaUUUMxNdbaqc/assets/static/optimized/rev-fab41fc/wp-content/uploads/2021/07/Olena_M_33978_draw-150x150.jpg 150w">
+            <a href="https://www.rh-s.com/ruslana-i/" target="_blank">
+              <img width="300" height="300" src="https://www.rh-s.com/wp-content/uploads/2022/04/Ruslana_Iva_54565_draw-300x300.png" class="attachment-medium size-medium webpexpress-processed" alt="hire content manager, remote content manager" loading="lazy" srcset="https://www.rh-s.com/wp-content/uploads/2022/04/Ruslana_Iva_54565_draw-300x300.png 300w, https://www.rh-s.com/wp-content/uploads/2022/04/Ruslana_Iva_54565_draw-1024x1024.png 1024w, https://www.rh-s.com/wp-content/uploads/2022/04/Ruslana_Iva_54565_draw-150x150.png 150w, https://www.rh-s.com/wp-content/uploads/2022/04/Ruslana_Iva_54565_draw-768x768.png 768w, https://www.rh-s.com/wp-content/uploads/2022/04/Ruslana_Iva_54565_draw-e1650440279890.png 500w" sizes="(max-width: 300px) 100vw, 300px">
             </a>
           </div>
           <div class="candidate_info">
-            <h2>Olena M.</h2>
-            <p>English / Ukrainian</p>
-            <h4>Most used skills and tools:</h4>
+            <h2>Ruslana I.</h2>
+            <p>English / Ukrainian / Deutsch</p>
             <div class="candidate_skills">
+              <span>Canva</span>
+              <span>Data analysis</span>
+              <span>Data Entry</span>
               <span>Data Search</span>
-              <span>Elementor</span>
-              <span>XMind</span>
-              <span>Keyword Planner</span>
+              <span>Content Management</span>
+              <span>CRM</span>
             </div>
           </div>
         </div>
@@ -474,7 +461,6 @@
           <div class="candidate_info">
             <h2>Olena U.</h2>
             <p>English / Ukrainian</p>
-            <h4>Most used skills and tools:</h4>
             <div class="candidate_skills">
               <span>Data Entry</span>
               <span>Data Search</span>

@@ -489,7 +489,7 @@ header::before {
   color: #333333;
   mix-blend-mode: normal;
   opacity: 0.8;
-  margin: 2.875rem 0 4rem;
+  margin: 2.875rem 0 6.25rem;
 }
 .candidates_cards {
   width: 100%;
@@ -499,11 +499,13 @@ header::before {
   align-items: center;
 }
 .candidate_wrapper {
+  margin: 0 auto;
+  max-width: 87.5rem;
   width: 100%;
   height: auto;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 
@@ -555,10 +557,7 @@ header::before {
   border-radius: 1.875rem 1.875rem 0 0;
 }
 .candidate_card:hover {
-  transform: translateY(-1rem);
-}
-.candidate_card:nth-child(2):hover {
-  transform: translateY(-4.5rem);
+  box-shadow: 1px 1px 30px rgba(0, 104, 223, 0.4);
 }
 .candidate_info {
   background-color: #fff;
@@ -577,13 +576,6 @@ header::before {
   font-style: normal;
   font-weight: 400;
   color: #000000;
-}
-.candidate_info h4 {
-  font-style: normal;
-  font-weight: 700;
-  color: #000000;
-  margin-top: 1rem;
-  font-family: 'Merriweather', serif;
 }
 
 .candidate_skills {

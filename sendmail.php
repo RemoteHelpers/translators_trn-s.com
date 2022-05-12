@@ -15,14 +15,12 @@
 
 
   if (!empty($_POST)) {
-    $mail->setFrom($_POST['email'], 'trn-s.com message from:');
+    $mail->setFrom($_POST['email'], 'trn-s.com');
     $mail->addAddress('asven0099@gmail.com');
 
     $mail->Subject = 'Consultation!';
-  
     $body = '<h3>New Message!</h3>';
-  
-  
+    
   
     if(trim(!empty($_POST['name']))) {
       $body.='<p><strong>Name:</strong> '.$_POST['name'].'</p>';

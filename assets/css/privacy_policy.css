@@ -31,12 +31,11 @@
   justify-content: space-between;
   position: relative;
 }
-a.footer_link  {
+.footer_mail {
   position: absolute;
-  top: 0;
+  top: 50%;
   left: 50%;
-  transform: translateX(-50%);
-  text-decoration: none;
+  transform: translate(-50%, -50%);
   color: #333;
 }
 .footer_icons_wrapper {
@@ -46,9 +45,29 @@ a.footer_link  {
   column-gap: 1.5rem;
 }
 .footer_icons {
+  display: inline-block;
   font-size: 1.2rem;
   color: #333;
 }
 .privacy_footer p {
   margin-top: 2rem;
+}
+ul {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 1.1rem;
+}
+
+
+
+
+
+@media(max-width: 767px) {
+  .privacy_footer_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 3rem;
+  }
 }

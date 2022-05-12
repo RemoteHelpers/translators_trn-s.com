@@ -115,7 +115,7 @@ Template Name: Мой шаблон страницы
       <div class="logo">
         <?php the_custom_logo('custom-logo'); ?>
       </div>
-      <a href="" class="footer_link">info@trn-s.com</a>
+        <span class="footer_mail">info@trn-s.com</span>
       <div class="footer_icons_wrapper">
         <a href="##"><i class="fa-brands fa-facebook-f footer_icons"></i></a>
         <a href="##"><i class="fa-brands fa-linkedin-in footer_icons"></i></a>

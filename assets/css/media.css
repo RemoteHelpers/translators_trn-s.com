@@ -367,6 +367,10 @@
     height: auto;
   }
 
+  .candidates {
+    width: 100%;
+    padding: 3rem 0;
+  }
   .candidates_cards {
     width: 100%;
     height: auto;
